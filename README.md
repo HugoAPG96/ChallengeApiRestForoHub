@@ -82,3 +82,22 @@ La API utiliza JWT (JSON Web Tokens) para la autorización. Asegúrate de enviar
 - Tras un login exitoso, se genera un token JWT
 - Para acceder a endpoints protegidos, incluye el token en el encabezado de la solicitud:
 
+## Ejecución
+
+Para ejecutar la aplicación, sigue estos pasos:
+
+1. Clona el repositorio.
+2. Configura la base de datos MySQL y actualiza las propiedades de conexión en `application.properties`.
+
+## Migraciones de Base de Datos
+
+El proyecto utiliza Flyway para gestionar las migraciones de la base de datos. Las migraciones se encuentran en la carpeta `src/main/resources/db/migration`.
+
+## Contacto
+
+Para cualquier consulta, por favor contacta a Hugo Peralta.
+
+¡Gracias por utilizar Foro Hub API!
+
+
+
