@@ -1,4 +1,4 @@
-package com.alurachallenge.forohub.forohub.topico;
+package com.alurachallenge.forohub.forohub.dominio.topico;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
@@ -6,7 +6,6 @@ import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 @Table(name = "topicos")

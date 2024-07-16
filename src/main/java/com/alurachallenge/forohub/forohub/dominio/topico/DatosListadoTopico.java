@@ -1,4 +1,4 @@
-package com.alurachallenge.forohub.forohub.topico;
+package com.alurachallenge.forohub.forohub.dominio.topico;
 
 import java.time.LocalDateTime;
 
